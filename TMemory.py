@@ -13,6 +13,9 @@ Alternatives to this library with faster fetch times but more complexity:
     -shelve
 Use the above if optimization and response time is very important along with memory space.
 Otherwise this library will get the job done 
+
+
+
 '''
 
 import os
